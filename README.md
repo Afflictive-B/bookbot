@@ -1,2 +1,2 @@
 # bookbot
-Cursus python scripting
+BookBot is my first project!
